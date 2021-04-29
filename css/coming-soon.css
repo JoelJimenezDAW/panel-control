@@ -35,7 +35,6 @@ h1 {
 .tag {
   position: absolute;
   top: -2rem;
-  background-color: black;
   width: 11.5rem;
   height: 7.5rem;
   z-index: -1;
