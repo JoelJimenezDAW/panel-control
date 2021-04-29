@@ -54,7 +54,7 @@ input[type="reset"] {
   padding: .5rem 2rem;
   border: solid 1px #a62a01;
   background-color: var(--primary-color);
-  color: white;
+  color: rgb(71, 71, 71);
 }
 
 /* Personalización del checkbox */
