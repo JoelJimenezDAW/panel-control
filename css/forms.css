@@ -57,6 +57,18 @@ input[type="reset"] {
   color: rgb(71, 71, 71);
 }
 
+button,
+input[type="button"],
+input[type="submit2"],
+input[type="reset"] {
+  font-size: 20px;
+  width: 150px;
+  padding: .5rem 1rem;
+  border: solid 1px #a62a01;
+  background-color: var(--primary-color);
+  color: rgb(71, 71, 71);
+}
+
 /* Personalización del checkbox */
 .checkbox {
   position: relative;
