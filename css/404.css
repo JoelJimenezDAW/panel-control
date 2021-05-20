@@ -1,5 +1,6 @@
 * {
   font-family: 'Press Gothic', Arial, Helvetica, sans-serif;
+  background-color: #ddd674;
 }
 
 .wrapper {
@@ -19,6 +20,7 @@
   font-size: 8rem;
   line-height: 8rem;
   margin: 0;
+  text-align: center;
   color: #333333;
   letter-spacing: -1.4rem;
 }
@@ -32,6 +34,7 @@
 .message {
   font-family: 'Press Gothic', Arial, Helvetica, sans-serif;
   font-weight: 900;
+  text-align: center;
   color: #333333;
 }
 
